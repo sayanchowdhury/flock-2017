@@ -22,8 +22,7 @@ source ~/.virtualenvs/pycon/bin/activate
 
 4. To get the slides working
 ```
-git clone https://github.com/sayanchowdhury/flock
-cd pune.pycon.org
-git fetch
-git checkout feature/django
+pip install slidedeck
+git clone https://github.com/sayanchowdhury/flock-2017
+cd flock-2017/fedora_hubs
 ```

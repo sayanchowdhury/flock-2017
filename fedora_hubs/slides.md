@@ -10,37 +10,34 @@
 
 ---
 title: What we are going to cover?
-build_lists: true
+class: fz-17
 
-- What is Fedora Hubs? [3 mins]
-    - Defining the Fedora Hubs project
+- What is Fedora Hubs?
     - Why are we building Fedora Hubs?
+    - Defining the Fedora Hubs project
     - What is the goal behind Fedora Hubs?
-- Architecture of Fedora Hubs [10mins]
+- Architecture of Fedora Hubs
     - Basic Architecture of Hubs
     - Widgets: How can we build widgets?
-- The Road Ahead! [12 mins]
-    - Meeting Widget
-    - Regional Hubs
-    - Translation Hubs
-- How can I help? [3 mins]
-- When & Where do we meet? [1 min]
-- Questions [5 mins]
-
----
-title: What is Fedora Hubs?
-subtitle: Defining the Fedora Hubs project
-build_lists: true
-
-- It’s an ‘intranet’ page for the Fedora Project. You work on all these different projects in Fedora, and it’s a single place you can get information on all of them as a contributor.
-- It’s a social network for Fedora contributors. One place to go to keep up with everything across the project in ways that aren’t currently possible. We have a lot of places where teams do things differently, and it’s a way to provide a consistent contributor experience across projects/teams.
-
-<footer class="source">http://blog.linuxgrrl.com/2015/07/01/fedora-hubs-update/</footer>
+- The Road Ahead!
+- How can I help?
+- When & Where do we meet?
+- Questions
 
 ---
 title: What is Fedora Hubs?
 subtitle: Why are we building Fedora Hubs?
-build_lists: true
+
+---
+title: What is Fedora Hubs?
+subtitle: Defining the Fedora Hubs project
+
+- It is an intranet page for the Fedora Project.
+ 
+- It’s a social network for Fedora contributors.
+
+<footer class="source">http://blog.linuxgrrl.com/2015/07/01/fedora-hubs-update/</footer>
+
 ---
 title: What is Fedora Hubs>
 subtitle: What is the goal behind Fedora Hubs
