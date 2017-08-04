@@ -1,0 +1,29 @@
+# Flock 2017 - Fedora Hubs slides
+
+## Installation
+
+1. First [install virtualenv](https://virtualenv.pypa.io/en/stable/installation/).
+```bash
+sudo dnf install python3-pip
+pip3 install virtualenv
+```
+
+2. Create a virtualenv
+```bash
+mkdir ~/.virtualenvs
+virtualenv --python=`which python3` ~/.virtualenvs/slides
+```
+
+3. Then activate this virtualenv, you have to do this everytime you start
+   working on the project
+```
+source ~/.virtualenvs/pycon/bin/activate
+```
+
+4. To get the slides working
+```
+git clone https://github.com/sayanchowdhury/flock
+cd pune.pycon.org
+git fetch
+git checkout feature/django
+```
