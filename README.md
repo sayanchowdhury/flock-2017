@@ -25,4 +25,9 @@ source ~/.virtualenvs/pycon/bin/activate
 pip install slidedeck
 git clone https://github.com/sayanchowdhury/flock-2017
 cd flock-2017/fedora_hubs
+slidedeck watch
+```
+In a new terminal
+```
+python3 -m http.server
 ```
